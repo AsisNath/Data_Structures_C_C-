@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/natha/Documents/C_C++_project/Data_Structures_C_PP/HW1/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\HW1.dir\\main.c.obj -c C:\\Users\\natha\\Documents\\C_C++_project\\Data_Structures_C_PP\\HW1\\main.c",
+  "file": "C:/Users/natha/Documents/C_C++_project/Data_Structures_C_PP/HW1/main.c",
+  "output": "CMakeFiles/HW1.dir/main.c.obj"
+}
+]
